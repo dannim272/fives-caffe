@@ -6,9 +6,9 @@
 - for staff its going to be automisation of order-flow where they can recieve an order, making the process much easier and simplier
 
 ## general problems
-- cant use online payments - to complicated and not safe [###001]
+- cant use online payments - to complicated and not safe [001]
 
 ## solutions
-- ###001 - create in store credit, pupils can deposit money at the caffe which will then be added to their account
+- 001 - create in store credit, pupils can deposit money at the caffe which will then be added to their account
     - this will also help them manage their spending
     - !withdraws could be made any time!
